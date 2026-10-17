@@ -1,1 +1,10 @@
+body {
+  background-color: #FFF8F0;
+}
 
+h1 {
+  color: #431F08;
+    font-family: "Congenial Black", sans-serif; 
+  font-size: 30px;
+  text-align: center;
+}
