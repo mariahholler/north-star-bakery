@@ -23,19 +23,21 @@ h2 {
 
 nav { 
   background-color: #c27643;
-    padding: 20px;
+    padding: 8px;
 }
 nav a {
   display: block;
   background-color: #FFF8F8;
   border: 2px solid #000000;
-  padding: 15px 25px;
+  padding: 10px 25px;
+  font-size-22px;
+  text-align: center;
 }
 nav ul {
   display: flex;
     flex-direction: row;
-  justify-content:space-between;
-  gap: 20px;
+  justify-content: center;
+  gap: 15px;
 } 
 
 @media (max-width: 600px) {
