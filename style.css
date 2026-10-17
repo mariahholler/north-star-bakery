@@ -28,7 +28,8 @@ nav {
 nav a {
   display: block;
   background-color: #FFF8F8;
-  padding: 10px;
+  border: 2px solid #000000;
+  padding: 15px 25px;
 }
 nav ul {
   display: flex;
