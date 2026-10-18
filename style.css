@@ -23,23 +23,22 @@ h2 {
 
 nav { 
   background-color: #c27643;
-    padding: 8px;
+    padding: 10px;
 }
 nav a {
   display: block;
   background-color: #FFF8F8;
   border: 2px solid #000000;
-  padding: 12px 30px;
+  padding: 10px 30px;
   font-size-22px;
   text-align: center;
-  justify-content: space evenly;
-}
+  
 nav ul {
   display: flex;
     flex-direction: row;
-  justify-content: center;
+  justify-content: space evenly;
   gap: 15px;
-  padding: 15;
+  padding: 10px 25px;
   margin: 0;
 } 
 
