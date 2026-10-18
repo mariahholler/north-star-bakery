@@ -23,6 +23,10 @@ h2 {
 
 nav {
   background-color: #c27643;
+  padding: 15px;
+  margin: 20px auto;
+  max-width: 950px;
+  border-radius: 8px
 } 
 
 nav ul {
