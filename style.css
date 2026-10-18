@@ -29,16 +29,17 @@ nav a {
   display: block;
   background-color: #FFF8F8;
   border: 2px solid #000000;
-  padding: 10px 25px;
+  padding: 12px 30px;
   font-size-22px;
   text-align: center;
+  justify-content: space evenly;
 }
 nav ul {
   display: flex;
     flex-direction: row;
   justify-content: center;
   gap: 15px;
-  padding: 0;
+  padding: 15;
   margin: 0;
 } 
 
