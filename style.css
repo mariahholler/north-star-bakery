@@ -38,12 +38,12 @@ nav a {
   display: block;
   background-color: #FFF8F8;
   color: #955226;
-  font-size: 22px
+  font-size: 22px;
     text-align: center;
   text-decoration: none;  
   padding: 15px 30px;
   border: 2px solid #000000;
-  border-radius: 8px
+  border-radius: 8px;
     min-width: 130px;
 }
 
