@@ -51,6 +51,9 @@ nav a {
 nav ul { 
   flex-direction: column; 
 }
+  nav a {
+    min-width: 0;
+  } 
 }
 
 p {
